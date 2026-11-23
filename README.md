@@ -1,17 +1,13 @@
-<!-- BANNER SUPERIOR ANIMADO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=215&section=header&text=H%C3%A9ctor%20Madrigal%20S%C3%A1nchez&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20Inform%C3%A1tico%20%7C%20Full-Stack%20%26%20Backend%20Developer&descAlignY=58&descSize=18" width="100%" alt="Banner Héctor Madrigal Sánchez" />
-</p>
+<!-- ENCABEZADO PRINCIPAL -->
+<div align="center">
 
-<!-- SUBTÍTULO DINÁMICO (EFECTO MÁQUINA DE ESCRIBIR) -->
-<p align="center">
-  <a href="https://hectormadrigal.es">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=4695EB&center=true&vCenter=true&width=740&lines=Arquitecturas+Backend+%26+Microservicios+con+Java+21;Desarrollo+Full-Stack+con+Angular%2C+Python+%26+Docker;Sistemas+Geoespaciales+(QGIS+%2B+PostGIS)+%26+Visi%C3%B3n+Artificial;Disponible+en+Salamanca%2C+Remoto+o+H%C3%ADbrido+en+Madrid" alt="Especialidades Héctor Madrigal" />
-  </a>
-</p>
+  <h1>Héctor Madrigal Sánchez</h1>
+  <h3>Ingeniero Informático · Desarrollador Full-Stack & Backend</h3>
+  <p>📍 Salamanca, España &nbsp;|&nbsp; Disponible para modalidad <b>Remota</b> o <b>Híbrida en Madrid</b></p>
 
-<!-- BOTONES DE ENLACES Y CONTADOR DE VISITAS -->
-<p align="center">
+  <br/>
+
+  <!-- BOTONES DE CONTACTO Y PORTFOLIO -->
   <a href="https://hectormadrigal.es">
     <img src="https://img.shields.io/badge/🌐_Portfolio_Web-hectormadrigal.es-0A66C2?style=for-the-badge&logoColor=white" alt="Portfolio Web" />
   </a>
@@ -21,8 +17,10 @@
   <a href="mailto:hectormadrisanch@gmail.com">
     <img src="https://img.shields.io/badge/✉️_Email-Contactar-D14836?style=for-the-badge&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=hectormadrisanch&label=VISITAS&color=4695EB&style=for-the-badge" alt="Contador de visitas" />
-</p>
+
+</div>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -30,33 +28,19 @@
 
 <table>
   <tr>
-    <td width="64%" valign="middle">
-      <p>Graduado en <b>Ingeniería Informática</b> con mención en <b>Ingeniería del Software</b> por la Universidad Pontificia de Salamanca (UPSA). Diseño y construyo aplicaciones completas de extremo a extremo: desde APIs y microservicios contenerizados hasta interfaces web rápidas y semánticas.</p>
+    <td width="65%" valign="middle">
+      <p>Graduado en <b>Ingeniería Informática</b> con mención en <b>Ingeniería del Software</b> por la Universidad Pontificia de Salamanca (UPSA). Diseño y desarrollo aplicaciones web completas de extremo a extremo: desde APIs y microservicios contenerizados hasta interfaces modernas, rápidas y semánticas.</p>
       <ul>
-        <li>🔭 <b>En marcha:</b> Evolucionando mi portfolio full-stack (<a href="https://hectormadrigal.es">hectormadrigal.es</a>) y explorando nuevos retos como desarrollador Backend / Full-Stack.</li>
-        <li>🧩 <b>Filosofía técnica:</b> Arquitectura limpia, contenedores reproducibles y frontend semántico sin dependencias innecesarias.</li>
-        <li>📍 <b>Ubicación:</b> Salamanca, España — abierto a modalidad <b>Remota</b> o <b>Híbrida en Madrid</b>.</li>
+        <li>🚀 <b>En marcha:</b> Evolucionando mi portfolio full-stack (<a href="https://hectormadrigal.es">hectormadrigal.es</a>) y buscando incorporar valor en equipos de desarrollo Backend o Full-Stack.</li>
+        <li>🧩 <b>Filosofía de desarrollo:</b> Arquitectura limpia, entornos reproducibles con Docker y código frontend estructurado sin dependencias innecesarias.</li>
+        <li>🛰️ <b>Áreas de interés:</b> Sistemas distribuidos en Java y Python, datos geoespaciales (GIS) y automatización con visión artificial e IA.</li>
       </ul>
     </td>
-    <td width="36%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Desarrollador programando" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" alt="Ilustración desarrollo de software" />
     </td>
   </tr>
 </table>
-
-```ts
-const hectorMadrigal: SoftwareEngineer = {
-  ubicacion: "Salamanca, España",
-  educacion: "Grado en Ingeniería Informática — Mención en Ingeniería del Software (UPSA)",
-  especialidades: [
-    "Arquitecturas Backend & Microservicios (Java 21, Quarkus, Spring Boot, Python)",
-    "Desarrollo Web Full-Stack (Angular, TypeScript, HTML5, SCSS BEM)",
-    "Contenerización, Caché & Bases de Datos (Docker, PostgreSQL, PostGIS, Redis)",
-    "Automatización con IA, Visión Artificial y Sistemas GIS (OpenCV, Gemini, QGIS)"
-  ],
-  disponibilidad: "Abierto a incorporar valor en equipos de desarrollo de software"
-};
-```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -65,6 +49,8 @@ const hectorMadrigal: SoftwareEngineer = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,django,php,angular,ts,js,html,css,sass,postgres,mysql,mongodb,redis,docker,nginx,git,opencv&perline=10" alt="Iconos del Stack Tecnológico" />
 </p>
+
+<br/>
 
 <div align="center">
 
@@ -183,38 +169,10 @@ const hectorMadrigal: SoftwareEngineer = {
   </tr>
 </table>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🏆 Trofeos, Racha y Métricas en GitHub
-
 <div align="center">
-
-  <!-- Trofeos de GitHub -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hectormadrisanch&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="Trofeos de GitHub" />
-  </a>
-
-  <br/><br/>
-
-  <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=hectormadrisanch&theme=tokyonight&hide_border=true&ring=4695EB&fire=FF6B6B&currStreakLabel=4695EB" alt="GitHub Streak Stats" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Estadísticas Generales + Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hectormadrisanch&show_icons=true&theme=tokyonight&hide_border=true&title_color=4695EB&icon_color=4695EB" alt="Estadísticas de GitHub" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectormadrisanch&layout=compact&theme=tokyonight&hide_border=true&title_color=4695EB" alt="Lenguajes más usados" height="175" />
-
-  <br/><br/>
-
-  <!-- Gráfico de Actividad de Contribuciones -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hectormadrisanch&theme=tokyo-night&hide_border=true&area=true&color=4695EB&line=4695EB&point=FF6B6B" width="95%" alt="Gráfico de actividad de contribuciones" />
-
+  <p>¿Hablamos sobre desarrollo, arquitectura o algún proyecto? Visita <a href="https://hectormadrigal.es"><b>hectormadrigal.es</b></a> o escríbeme por <a href="https://www.linkedin.com/in/hectormadrigalsanchez"><b>LinkedIn</b></a>.</p>
 </div>
-
-<!-- BANNER INFERIOR DE CIERRE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Construyendo%20software%20limpio%20y%20escalable&fontSize=18&fontColor=fff&fontAlignY=65" width="100%" alt="Footer Héctor Madrigal" />
-</p>
